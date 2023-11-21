@@ -1,0 +1,8 @@
+.slds-col {
+    display: inline-block;
+}
+
+.lightning-formatted-rich-text img {
+    max-width: 100%;
+    height: auto;
+}

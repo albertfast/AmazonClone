@@ -1,0 +1,5 @@
+<aura:component >
+     <c:DemoComp/>
+	<h1> One more lightining componenent</h1>
+    <p> This is a paragraph in Lightining componenet</p>
+</aura:component>

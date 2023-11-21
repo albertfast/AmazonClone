@@ -1,0 +1,3 @@
+<aura:component >
+	<p> My first Lightining Aura Component</p>
+</aura:component>
